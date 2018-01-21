@@ -25,7 +25,7 @@ For our [final project](https://github.com/majdeddine/take-a-paws) at Makers Aca
 |---        |---         |---
 |[Take-a-Paws](https://github.com/majdeddine/take-a-paws) | A social search app that brings together dog lovers. | Javascript, Node.js, React, socket.io, express, Sequelize, PostgreSQL, Mocha, Chai, Supertest |
 |[Cooking Up A Storm](https://github.com/somemarsupials/cooking-challenge) | An app that uses machine learning to recommend the user a style of cuisine to cook, given a list of ingredients. | Python, Ruby, jQuery, HTML, and CSS |
-| [Makersbnb](https://github.com/tabrza/makers-bnb)| A clone of Airbnb | Ruby, RSpec, Capybara, Sinatra, DataMapper|
+| [Makersbnb](https://github.com/tabrza/makers-bnb)| A clone of Airbnb. | Ruby, RSpec, Capybara, Sinatra, DataMapper|
 |[Yelp](https://github.com/ajdavey8/Yelp) | A clone of Yelp using Facebook sign in and AWS storage. | Ruby, Rails, PostgreSQL
 
 ## Education
