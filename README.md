@@ -23,7 +23,7 @@ For our [final project](https://github.com/ajdavey8/take-a-paws) at Makers Acade
 | Project   | Description | Technologies
 |---        |---         |---
 |[Take-a-Paws](https://github.com/ajdavey8/take-a-paws) | A social search app that brings together dog lovers. | Javascript, Node.js, React, socket.io, express, Sequelize, PostgreSQL, Mocha, Chai, Supertest |
-|[Photo Viewer](https://github.com/ajdavey8/photo-viewer) | A photo viewing app with an image carousel and search function. | React and CSS
+|[Photo Viewer](https://github.com/ajdavey8/photo-viewer) | A photo viewing app with an image carousel and search function. | React, CSS and Jest
 |[Cooking Up A Storm](https://github.com/ajdavey8/cooking-challenge) | An app that uses machine learning to recommend the user a style of cuisine to cook, given a list of ingredients. | Python, Ruby, jQuery, HTML, and CSS |
 | [Makersbnb](https://github.com/ajdavey8/makers-bnb)| A clone of Airbnb. | Ruby, RSpec, Capybara, Sinatra, DataMapper|
 
